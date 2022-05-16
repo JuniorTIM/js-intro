@@ -1,0 +1,4 @@
+const favoriteFilm = 'Добро пожаловать в Zombilend';
+const favoriteProgramm = 'TikTok';
+const js_in_wiki = 'https://ru.wikipedia.org/wiki/JavaScript';
+const loremText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dolor purus, dictum in rhoncus eget, auctor quis nunc. Suspendisse in lacinia quam, id congue felis. Cras sed cursus mi, sed accumsan sem. Sed at orci euismod, tristique massa ullamcorper, lacinia massa. Nullam non sapien rhoncus, ultricies lectus vel, venenatis eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In mattis ligula ut arcu tempus finibus. Curabitur blandit pretium arcu sit amet mattis. Aenean commodo quis est scelerisque tincidunt. In hac habitasse platea dictumst. Nullam at mollis augue. Vestibulum aliquet congue risus, ac vulputate eros dignissim ac. Nam sed ex libero.'
